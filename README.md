@@ -18,4 +18,4 @@ curl -v -u "admin:admin" -X POST http://localhost:4502/services/support/auth
 
 # How to build
 
-mvn clean install
+`mvn clean install`
